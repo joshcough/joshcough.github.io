@@ -1,0 +1,14 @@
+---
+layout: post
+categories: [test]
+title: Testing.
+---
+
+This is a test of the emergency broadcast system.
+
+* If you are hearing this test, run.
+* If you are not hearing this test, it's already too late.
+
+#### Remarks
+
+Just kidding.
