@@ -47,6 +47,8 @@ Possible even more important, The Footlight Club is depending on the money. They
 
 I know I have my ups and downs. I've often described doing shows as "two to three months of emotional trauma for two to three weekends of bliss". I get upset, I threaten to quit, I make mistakes and say things I shouldn't say to people I really care about. But in the end, all is forgetten; it always comes out to be worth it. The two to three weekends of bliss are unlike anything else I've ever experienced. I love it more than anything else (with the obvious exception of family).
 
-So what did I do? I spent two hours talking to my vocal coaches and searching on the internet. My conclusion was the risk wasn't as bad as he made it out to be, but was still there. At the least I knew I had to be careful, and I was. I sang carefully, conscious of not pushing to hard. It was by far our best show, with a packed crowd and a standing ovation, and it just might have been the best I've ever sang, and it was possibly one of the best days of my life. I got more genuine compliments and hugs and high fives than ever.
+So what did I do? I spent two hours talking to my vocal coaches and searching on the internet. My conclusion was the risk wasn't as bad as he made it out to be, but was still there. At the least I knew I had to be careful, and I was. I sang carefully, conscious of not pushing to hard. It was by far our best show, with a packed crowd and a standing ovation, and it just might have been the best I've ever sang. It was possibly one of the best days of my life. I got more genuine compliments and hugs and high fives than ever.
 
-All that - the people, the community, the passion, the hugs - this is livelyhood. It's why I would risk my vocal chords, and I'd probably do it again.
+All that - the people, the community, the passion, the hugs - this *is* livelyhood. 
+
+This is why I risked my vocal chords, and if in the unfortunate even that I ever need to, this is why I'd do it again.
