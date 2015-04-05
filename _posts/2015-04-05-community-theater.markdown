@@ -18,7 +18,7 @@ By Saturday the situation had gotten worse, and I felt like I wasn't going to be
 
 When I asked the doctor for help he initially said he couldn't give me anything. He just said you're sick, your throat is raw, and you can't sing. I was frustrated. But then in a moment of slight hesitation, he asked me if my livelyhood depended on it - if I was a professional singer. I was rather perplexed at the question. What would that matter?  He elaborated.
 
-"The only thing I could give you is a steroid that comes with considerable risk. Taking this could leave your vocal chords damaged forever. Unless you a professional singer and your livelyhood absolutely depends on it - say you are going to lose out on a big contract - I think this is absolutely dangerous and I won't prescribe it to you."
+"The only thing I could give you is a steroid that comes with considerable risk. Taking this could leave your vocal chords damaged forever. Unless you're a professional singer and your livelyhood absolutely depends on it - say you are going to lose out on a big contract - I think this is absolutely dangerous and I won't prescribe it to you."
 
 My response was simple and direct. 
 
