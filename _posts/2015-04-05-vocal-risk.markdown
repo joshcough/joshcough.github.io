@@ -4,7 +4,7 @@ categories: [theater]
 title: An intimate discussion about community theater.
 ---
 
-I want to discuss a story about community theater, my role in it, its role on everyone, and an critical discussion I had with a doctor about its importance.
+I want to discuss a story about community theater, my role in it, its role on everyone, and a critical discussion I had with a doctor about its importance.
 
 ## Being sick at the worst time
 
