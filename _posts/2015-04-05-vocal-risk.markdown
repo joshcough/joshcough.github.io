@@ -8,11 +8,9 @@ I want to discuss a story about community theater, my role in it, its role on ev
 
 ## Being sick at the worst time
 
-Today is April 5th, 2015 and this marks three weeks of me being miserably sick. It couldn't have happened at a worse time - Tommy (a musical I'm at The Footlight Club)
-opened last weekend. 
+Today is April 5th, 2015 and this marks three weeks of me being miserably sick. It couldn't have happened at a worse time - Tommy (a musical I'm at The Footlight Club) opened last weekend. 
 
-This week my cold got worse until I couldn't really sing on Friday; we had a show and I was a nervous wreck. I sang, but in my own opinion it was a distaster. My high
-notes cracked and fizzled, and I crumbled emotionally (despite praise from the cast and crew for my valiant effort). 
+This week my cold got worse until I couldn't really sing on Friday; we had a show and I was a nervous wreck. I sang, but in my own opinion it was a distaster. My high notes cracked and fizzled, and I crumbled emotionally (despite praise from the cast and crew for my valiant effort). 
 
 By Saturday the situation had gotten worse, and I felt like I wasn't going to be able to sing at all. I was in full on panic mode. Fortunately I have the right friends - they suggested I could go to the doctor and get steroids to help calm the inflammation in my throat. When I realized I wouldn't be able to find an ENT last minute on a Saturday, I went to urgent care immediately. 
 
