@@ -35,7 +35,7 @@ He gave me the prescription, but made me sign a paper saying that I understood t
 
 While I thought my initial response to him was good, I've thought about it a lot more since.
 
-I'm know I'm not the only one who feels this way about theater. There are a whole lot of really passionate people that I've met who devote ungodly amounts of time and energy into it, all for free, all for the love of it. We all walk different paths during the day, but this is what we do at night. *This is what we live for*. *This is what we do*. 
+I'm know I'm not the only one who feels this way about theater. There are a whole lot of really passionate people that I've met who devote ungodly amounts of time and energy into it, all for free, all for the love of it. We all walk different paths during the day, but this is what we do at night. *This is what we live for*. _*This is what we do*_. 
 
 On top of that, there are some people that do make their living off of this. I pay two vocal coaches good money, and they are worth every penny. I would probably pay them more if they asked me to, but I don't think they will. I recently sent my first vocal coach a generous donation for all the help that she gave me when I was starting singing 14 years ago at age 22. She didn't ask for it, but I wanted her to have it. It made me feel great to give it to her.
 
