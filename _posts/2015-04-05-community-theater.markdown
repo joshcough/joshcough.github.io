@@ -51,4 +51,4 @@ So what did I do? I spent two hours talking to my vocal coaches and searching on
 
 All that - the people, the community, the passion, the hugs - this *is* livelyhood. 
 
-This is why I risked my vocal chords, and if in the unfortunate even that I ever need to, this is why I'd do it again.
+This is why I risked my vocal chords, and if in the unfortunate event that I ever need to, this is why I'd do it again.
