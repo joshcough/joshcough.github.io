@@ -41,7 +41,7 @@ On top of that, there are some people that do make their living off of this. I p
 
 Additionally, there are plenty of other people who probably are making their careers doing this too - vocal, acting and dancing coaches, professional theater folk and musicians, and more. I won't pretend to know who they all are, I don't know the business side of this well at all. But I do know there are paying gigs in Boston, and obviously other cities.
 
-Potentially equally important, The Footlight Club is depending on the money. They need money to replace the heating system, and if they can't do it, they will have to close down. And if The Footlight Club - America's oldest community theater - closes down, the entire community suffers. Performers have one less place to do shows. People with less experience will have fewer chances to get into other clubs, because people who would have been in shows at Footlight would be taking their spots. Theatergoers have one less place to escape reality. Musicians and staff have one less place to play, one less spot to put on their resume. 
+Potentially equally important, The Footlight Club is depending on the money. They need money to replace the fire safety system, and if they can't do it, they will have to close down. And if The Footlight Club - America's oldest community theater - closes down, the entire community suffers. Performers have one less place to do shows. People with less experience will have fewer chances to get into other clubs, because people who would have been in shows at Footlight would be taking their spots. Theatergoers have one less place to escape reality. Musicians and staff have one less place to play, one less spot to put on their resume. 
 
 ## Final thoughts, decision, conclusion
 
