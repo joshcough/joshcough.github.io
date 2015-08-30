@@ -35,13 +35,13 @@ You should come up with some more simple machines.
 
 So that we don't get off on the wrong foot, let's pause just a second to think about immutability. When it comes to these kinds of machines, you can think of them in two different ways.
 
- 1. Machines that take their input, and modify it directly
+ * Machines that take their input, and modify it directly
 
  or...
 
- 2. Machines that take their input and create some output using that input.
+ * Machines that take their input and create some output using that input.
 
-Functional programmers almost always tend to think in terms of #2. For the most part, inputs can't be modified. Let's think about our machines again really quick.
+Functional programmers almost always tend to think in terms of the latter. For the most part, inputs can't be modified. Let's think about our machines again really quick.
 
  * For a paper shredder, you put in a piece of paper, and get back some shredded paper. But, you still have your original piece of paper!
  * Wood chipper too - you could put in a whole forest, and get a mountain of pulp, but still have your whole forest too!
