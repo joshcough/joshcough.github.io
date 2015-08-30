@@ -7,6 +7,7 @@ title: Functional Programming 101
 # Function Programming 101
 
 Functional programming is about:
+
 * Functions, first and foremost
 * Immutable data
 * Isolating effects (mutable data, calls to the outside world, and concurrecy - yes, concurrency is an effect)
