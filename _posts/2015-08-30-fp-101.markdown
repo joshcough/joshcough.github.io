@@ -6,7 +6,7 @@ title: Functional Programming 101
 
 # Function Programming 101
 
-Functional programming is about:
+Functional programming is about
 
 * Functions, first and foremost
 * Immutable data
