@@ -24,7 +24,7 @@ Instead, let's take a playful approach - functions are machines and machines are
 
 Let's look at a few examples of simple machines.
 
-* A paper shredder is a simple machine. You put paper into it, and shredded paper comes out. Some of them are more powerful than others. Many there are some that can only shred a single piece of paper at a time. Maybe a super powerful one could shred a magazine, or even a whole paperback book.
+* A paper shredder is a simple machine. You put paper into it, and shredded paper comes out. Some of them are more powerful than others. Maybe there are some that can only shred a single piece of paper at a time. Maybe a super powerful one could shred a magazine, or even a whole paperback book.
 * A wood chipper is a paper shredder on steroids. It could easily shred paper, and paperback books, but also hard cover books, twigs, and even whole trees.
 * A printer is another machine that takes paper as an input. But, it also needs additional inputs - mainly ink, and some document to print. It takes the paper, and uses the document to figure out where to put the ink on the page. It when spits out a pretty page.
 * A dishwasher takes dishes (typically dirty dishes, but it accepts clean ones too), and it outputs clean dishes.
