@@ -27,7 +27,7 @@ Let's dive into the universe of functions.
 
 We could do it in a rigorous, mathematical, dry way. We could explain domains and ranges, on-to-one, onto, etc. But let's not do that. Instead, let's have fun - let's talk about machines. Machines are fun, and easy, and everyone is familiar with them.
 
-<img src="http://joshcough.github.io/images/MachinesQuestion.png" alt="Paper Shredder" title="" height="25%" width="25%"/>
+<img src="http://joshcough.github.io/images/MachinesQuestion.png" alt="Paper Shredder" title="" height="50%" width="50%"/>
 
 The answer is simple - machines *are* functions, and they are a super simple way to start learning about functions, types, and other important functional programming concepts.
 
@@ -41,7 +41,7 @@ There are three basic kinds of machines.
 
 Regular machines are what we typically think of as machines - some mechanical device that takes in some input, does something with it, and spits something out. Here's a simple way to picture a machine in your mind.
 
-<img src="http://joshcough.github.io/images/RegularMachine.png" alt="Regular Machine" title="" height="50%" width="50%"/>
+<img src="http://joshcough.github.io/images/RegularMachine.png" alt="Regular Machine" title="" height="50%" width="100%"/>
 
 But, that doesn't look fun, or happy. When I think of functions and machines, I like to imagine this:
 
@@ -81,7 +81,7 @@ Let's break down the syntax so that it isn't intimidating.
 * `=` everything on the left of the `=` is the metadata for the function (name, input, output, etc). Everything to the right of the `=` is the *body* of the function.
 * `paper.split("\n")` is the body of the function. In this case, we assume that some split function exists on String.
 
-<img src="http://joshcough.github.io/images/ScalaSyntax.png" alt="Scala Syntax" title="" height="75%" width="75%"/> This image needs to have the arrows reversed.
+<img src="http://joshcough.github.io/images/ScalaSyntax.png" alt="Scala Syntax" title="" height="75%" width="100%"/> This image needs to have the arrows reversed.
 
 #### A quick thought about immutability
 
@@ -101,7 +101,7 @@ Now, we'll be the first to admit, this might be a *just a little* counterintuiti
 
 Output-Only machines are machines that take no output but still spit things out. We might also call these Sources, or Generators.
 
-<img src="http://joshcough.github.io/images/OutputOnlyMachine2.png" alt="Output-Only Machine" title="" height="50%" width="50%"/>
+<img src="http://joshcough.github.io/images/OutputOnlyMachine2.png" alt="Output-Only Machine" title="" height="50%" width="75%"/>
 
 * The Big Bang is definitely one of these. It spits out the entire universe (holy &@*%!), seemingly with no inputs at all.
 * The sun is kind of like this - it spits out light and heat. You could argue that its inputs are hydrogen particles and other particles, but, you could also argue that those particles are just simply there, and via the forces of nature, light and heat come out.
@@ -115,7 +115,7 @@ A real world programming example would be a function that reads from a file syst
 
 Input-Only machines are machines that *only* take input, and *never* spit anything out.
 
-<img src="http://joshcough.github.io/images/InputOnlyMachine2.png" alt="Input-Only Machine" title="" height="50%" width="50%"/>
+<img src="http://joshcough.github.io/images/InputOnlyMachine2.png" alt="Input-Only Machine" title="" height="50%" width="75%"/>
 
 For some of these examples, you have to suspend disbelief a bit, but that's ok, were just having fun.
 
@@ -138,7 +138,7 @@ When we hook these two machines together - the treatment plant and the dog - we 
 
 This is called **composition**, and functions are __great__ at it.
 
-<img src="http://joshcough.github.io/images/FunctionComposition.png" alt="Input-Only Machine" title="" height="50%" width="50%"/>
+<img src="http://joshcough.github.io/images/FunctionComposition.png" alt="Input-Only Machine" title="" height="50%" width="100%"/>
 
 One very interesting point with this example is that not only can you hook these machines together was we did, but you can also hook the dog back up to the water treatment plant, creating a never ending cycle :) We'll have more to say about this later too.
 
@@ -146,7 +146,7 @@ One very interesting point with this example is that not only can you hook these
 
 Composition really is the essence of programming. We write little functions, connect them together to make bigger functions, and so on, until we have a working program. For example, if you connect an output-only machine to a regular machine to input-only machine, that’s a whole program.
 
-<img src="http://joshcough.github.io/images/WholeProgram.png" alt="Input-Only Machine" title="" height="50%" width="50%"/>
+<img src="http://joshcough.github.io/images/WholeProgram.png" alt="Input-Only Machine" title="" height="50%" width="100%"/>
 
 One good example of this is a compiler. A compiler is Output-Only machine (spewing out data from files on the file system), connected to a Regular Machine (files go through the parser, then type checker, then code generator), connected to an Input-Only machine that writes out compiled files to disk.
 
