@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Temporarily store uncommited changes
 git stash
 
